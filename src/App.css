@@ -1,0 +1,24 @@
+/* App.css */
+
+.report-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 3em;
+}
+
+.report-table th,
+.report-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.header-cell {
+  background-color: grey;
+  color: white;
+}
+
+.name-cell {
+  background-color: blue;
+  color: white;
+}
